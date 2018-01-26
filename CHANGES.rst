@@ -1,6 +1,6 @@
 ..
     This file is part of CDS.
-    Copyright (C) 2015 CERN.
+    Copyright (C) 2015, 2018 CERN.
 
     CDS is free software; you can redistribute it
     and/or modify it under the terms of the GNU General Public License as
@@ -25,6 +25,7 @@
 Changes
 =======
 
-Version 1.0.0 (released TBD)
+Version 1.0.0 (released 2017-12-12)
+-----------------------------------
 
-- Major refactoring to move from Invenio 2.x to 3.x.
+- Initial release of CDS Videos.
